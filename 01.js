@@ -1,4 +1,4 @@
-// 1. 함수 선언문문
+// 1. 함수 선언문
 function add (x, y) {
 
     return x+y; 
